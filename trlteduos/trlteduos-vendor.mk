@@ -49,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteduos/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/trlteduos/proprietary/lib/libshdace.so:system/lib/libshdace.so \
     vendor/samsung/trlteduos/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
-    vendor/samsung/trlteduos/proprietary/vendor/lib/hw/audio.primary.apq8084.so:system/vendor/lib/hw/audio.primary.apq8084.so \
     vendor/samsung/trlteduos/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/trlteduos/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/trlteduos/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
