@@ -41,8 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteduos/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/trlteduos/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/trlteduos/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
-    vendor/samsung/trlteduos/proprietary/lib/libsec-ril-09w.so:system/lib/libsec-ril-09w.so \
-    vendor/samsung/trlteduos/proprietary/lib/libsec-ril-dsds-09w.so:system/lib/libsec-ril-dsds-09w.so \
     vendor/samsung/trlteduos/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/trlteduos/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/trlteduos/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
