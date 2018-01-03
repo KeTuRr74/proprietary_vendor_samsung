@@ -48,6 +48,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts210wifi/proprietary/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:system/app/mcRegistry/ffffffffd00000000000000000000016.tlbin \
     vendor/samsung/gts210wifi/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/gts210wifi/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
+    vendor/samsung/gts210wifi/proprietary/etc/wifi/nvram_mfg.txt_4356_a2:system/etc/wifi/nvram_mfg.txt_4356_a2 \
     vendor/samsung/gts210wifi/proprietary/etc/wifi/nvram_mfg.txt_4358_a1:system/etc/wifi/nvram_mfg.txt_4358_a1 \
     vendor/samsung/gts210wifi/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
+    vendor/samsung/gts210wifi/proprietary/etc/wifi/nvram_net.txt_4356_a2:system/etc/wifi/nvram_net.txt_4356_a2 \
     vendor/samsung/gts210wifi/proprietary/etc/wifi/nvram_net.txt_4358_a1:system/etc/wifi/nvram_net.txt_4358_a1
